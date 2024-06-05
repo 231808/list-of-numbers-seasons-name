@@ -1,0 +1,10 @@
+# 1-ACT
+even numbes = list(range(2,21,2) #step 1; create a list of even numbers up to 20, assign a unique variable as so ev_num, od_num
+print("first 3 elements;")
+#step 2; print statement that asks the first 2 elements to the user for i in range (3);#for loop to print numbers from the list even_numbers
+      print (even_numbers[i] #print or display even_numbers
+print("All even numbers up to 20;")
+#step 3= display all numbers in the listusing the range function for num in even_numbers;#""
+print(num)# printing numbers in even_numbers
+average=sum(even_numbers)/1en(even_number)
+#step 4=
